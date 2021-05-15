@@ -1,0 +1,8 @@
+com\mycompany\pss_prova_2\proxy\ImagemReal.class
+com\mycompany\pss_prova_2\proxy\Imagem.class
+com\mycompany\pss_prova_2\proxy\ImagemProxy.class
+com\mycompany\pss_prova_2\aplicacao\Aplicacao.class
+com\mycompany\pss_prova_2\presenter\ImagensPresenter.class
+com\mycompany\pss_prova_2\presenter\ImagensPresenter$1.class
+com\mycompany\pss_prova_2\collection\ImagemCollection.class
+com\mycompany\pss_prova_2\view\ImagensView.class
